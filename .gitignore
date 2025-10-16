@@ -1,0 +1,10 @@
+node_modules
+.DS_Store
+dist
+.env
+server/node_modules
+admin/node_modules
+widget/node_modules
+server/.env
+admin/.env
+widget/.env
